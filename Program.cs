@@ -10,6 +10,7 @@ for (int i = 0; i < arr.Length; i++)
         index++;
     }
 }
+
 Console.Write("[ ");
 
 for (int i = 0; i < arr2.Length; i++)
